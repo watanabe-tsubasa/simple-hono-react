@@ -1,5 +1,18 @@
 # simple-hono-react
 
+## 動かし方
+
+```txt
+bun install
+bun run dev
+```
+
+```txt
+bun run deploy
+```
+
+## 背景
+
 - [zenn](https://zenn.dev/yusukebe/articles/06d9cc1714bfb7)
 - [zenn2](https://zenn.dev/laiso/articles/c7eba95ce43feb)
 
